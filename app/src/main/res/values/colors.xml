@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="alpha_black88">#88000000</color>
+    <color name="colorPrimary">#FA9B36</color>
+    <color name="colorPrimaryDark">#F1AD64</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="blue1">#96C1E6</color>
+    <color name="blue2">#7FABD1</color>
+    <color name="liji_material_red_500">#FD0000</color>
+
+    <color name="chat_message">#79716E6E</color>
+    <color name="vp1">#0a6286</color>
+    <color name="vp2">#298DB6</color>
+
+    <color name="li1">#7FABD1</color>
+    <color name="li2">#96C1E6</color>
+</resources>
